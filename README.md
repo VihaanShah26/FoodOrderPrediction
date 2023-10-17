@@ -1,5 +1,5 @@
 # FoodOrderPrediction
-This is a model to predict a student's order at a food truck in Indiana based on some basic information about the student. 
+This is a model to predict a student's order at a food truck part of a chain called FoodX in Indiana based on some basic information about the student. 
 
 ## Files 
 - Foodx.ipynb : Jupyter Notebook with code along with relevant explanations and Q&A
